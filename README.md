@@ -1,9 +1,9 @@
-# 🤖 Agentic AI Learning Journey - Day 1: Core Concepts
+# 🤖 Agentic AI Learning Journey
 
 
 ## 📚 Overview
 
-Welcome to Day 1 of my Agentic AI learning journey! This repository contains my understanding of fundamental concepts that differentiate Agentic AI from traditional software and AI systems.
+Agentic AI learning journey! This repository contains my understanding of fundamental concepts that differentiate Agentic AI from traditional software and AI systems.
 
 **Repository Purpose:** Conceptual foundation and theoretical understanding before implementation.
 
@@ -182,8 +182,7 @@ Let me search academic databases
 
 ## 🚀 What's Next?
 
-**Day 2:** Moving from concepts to code! I'll be implementing my first workflow/agent.
-
+**Day 2:** Moving from concepts to code! I'll be implementing my first workflow/agent. 
 Stay tuned: [Day 2 Repository](https://github.com/yourusername/agentic-ai-day2) *(Coming Soon)*
 
 ---
