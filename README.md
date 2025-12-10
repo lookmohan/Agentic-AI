@@ -183,7 +183,7 @@ Let me search academic databases
 ## 🚀 What's Next?
 
 **Day 2:** Moving from concepts to code! I'll be implementing my first workflow/agent. 
-Stay tuned: [Day 2 Repository](https://github.com/yourusername/agentic-ai-day2) *(Coming Soon)*
+Stay tuned: [LLM integration](https://github.com/lookmohan/groq-llm-integration)
 
 ---
 
