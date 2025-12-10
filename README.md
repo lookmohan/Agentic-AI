@@ -180,10 +180,10 @@ Let me search academic databases
 - ✅ Production systems favor workflows for reliability and cost
 ---
 
-## 🚀 What's Next?
+### ➡️ Next
 
 **Day 2:** Moving from concepts to code! I'll be implementing my first workflow/agent. 
-Stay tuned: [LLM integration](https://github.com/lookmohan/groq-llm-integration)
+ [LLM integration](https://github.com/lookmohan/groq-llm-integration)
 
 ---
 
